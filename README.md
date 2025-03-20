@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI) , Cloud Computing.**
 
-- 📫 How to reach me **shubhamspatil.sp09@gmail.com**
+- 📫 How to reach me **shubamspatil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
